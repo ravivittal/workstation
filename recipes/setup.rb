@@ -1,4 +1,4 @@
-package %w(tree ntp) do
+package %w(tree ntp telnet) do
   action :install
 end
 
